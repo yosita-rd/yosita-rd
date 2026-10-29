@@ -6,7 +6,7 @@ I'm **Yosita Rodwattanakul**, a Computer Engineering and Digital Technology stud
 
 I enjoy learning quickly, working closely with people across disciplines, and turning complex requirements into software people use.
 
-[Portfolio](https://yosita-portfolio.vercel.app/) · [Email](mailto:yosita.rd@gmail.com)
+[Portfolio](https://yosita-portfolio.vercel.app/) · [Email](mailto:yosita.rd@gmail.com) · [Download resume (PDF)](https://github.com/yosita-rd/yosita-rd/raw/refs/heads/main/yosita_resume.pdf)
 
 ## Experience
 
@@ -47,12 +47,33 @@ Built user-facing pages and custom React and TypeScript components for a product
 
 ## Tech stack
 
-| Area | Technologies |
-| --- | --- |
-| Languages | TypeScript, JavaScript, SQL, Java, C++ |
-| Frontend | React, Next.js, TanStack Query, Zod, Tailwind CSS |
-| Backend | Node.js, Express.js, RESTful APIs, Prisma ORM |
-| Database & delivery | PostgreSQL, GitHub Actions |
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-334155?style=for-the-badge)
+
+**Database & delivery**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## Education
 
