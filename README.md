@@ -1,46 +1,71 @@
 # Hi, I'm Yosita 👋
 
-### Software development · Frontend engineering · UX/UI
+### Software developer · Frontend engineering · Full-stack development
 
-I'm **Yosita Rodwattanakul**, a developer with a background in Computer Engineering and a focus on building thoughtful, usable web applications. I enjoy turning complex workflows into clear interfaces, from student activity systems and interactive dashboards to tools for everyday work.
+I'm **Yosita Rodwattanakul**, a Computer Engineering and Digital Technology student at **Chulalongkorn University**, based in **Bangkok, Thailand**. I build web applications with a focus on clear interfaces, reliable workflows, and the systems behind them.
 
-[Email](mailto:yosita.rd@gmail.com) · [Portfolio source](https://github.com/yosita-rd/yosita-portfolio)
+I enjoy learning quickly, working closely with people across disciplines, and turning complex requirements into software people use.
 
-## What I bring
-
-- **Frontend development:** responsive interfaces and reusable components with React, Next.js, TypeScript, and Tailwind CSS.
-- **UX/UI thinking:** translating requirements into practical layouts, navigation, and user flows.
-- **Collaboration:** working with backend developers, designers, and stakeholders; iterating through code reviews and mentoring newer contributors.
-- **Data visualization:** making project findings easier to explore with interactive charts and dashboards.
+[Portfolio](https://yosita-portfolio.vercel.app/) · [Email](mailto:yosita.rd@gmail.com)
 
 ## Experience
 
-**Software Developer Intern · Cleverse**  
-June–August 2025
+### Application Developer Intern · ExxonMobil
+June 2026 – November 2026
 
-Built frontend features including folder management, prompt history, team plans, access controls, and shared-content views. Collaborated with backend developers and senior engineers to ship features, improve rendering performance, and refine the user experience.
+- Develop and maintain revenue analytics dashboards, resolve data-binding bugs, and improve UX/UI.
+- Build Pricefx pre-calculation data flows to aggregate monthly data ahead of time and improve dashboard load times.
+- Created a reusable GitHub Actions CI/CD workflow using GitHub Copilot CLI and structured prompts to track codebase changes and publish documentation to GitHub or Azure DevOps wikis.
 
-**Software Developer Intern · Obodroid**  
-June–July 2024
+### Frontend Developer Intern · Cleverse
+June 2025 – July 2025
 
-Designed and implemented interactive dashboards for real-time monitoring of the SR1 security robot, contributing to a full-stack web application.
+- Built Folder Systems, Prompt History, Team Plans, and Shared Workspaces for **Aerogram**, a board-style AI workspace, using React, Next.js, and TypeScript.
+- Worked with backend developers and a mentor to integrate APIs and refine system functionality.
 
-## Selected work
+### Software Developer Intern · Obodroid
+June 2024 – July 2024
 
-| Project | My contribution | Technologies |
-| --- | --- | --- |
-| **Friday Activity System** · Chula Engineering | Built student-facing activity, organization, and score-request pages; contributed UX/UI design and custom components. Later helped junior contributors extend and maintain the system. | Next.js, React, TypeScript, Tailwind CSS, REST APIs |
-| **A2K** · Data visualization | Built an interactive web interface for exploring datasets and presenting findings with a team of five. | Next.js, React, TypeScript, Tailwind CSS, Plotly.js, D3.js |
-| **Net Down, Sprout Up** · Farming simulation | Designed features, built gameplay mechanics, and developed the interface for a game featuring farming, cooking, inventory, and energy systems. | Java, JavaFX |
+Contributed to a dashboard for **SR1**, a security robot, while gaining experience in software development and team collaboration.
 
-## Tools I work with
+## Selected projects
 
-**Web:** TypeScript · React · Next.js · Tailwind CSS · REST APIs  
-**State & interaction:** TanStack Query · TanStack Table · Zustand · React Flow  
-**Visualization & other:** Plotly.js · D3.js · Java · JavaFX
+### NexusProcure
+December 2025 – September 2026
 
-## Beyond the code
+A procurement workflow system used by **Chulalongkorn University's Procurement Division**.
 
-I care about the connection between engineering and design: how a feature works, how it feels to use, and how a team can keep improving it. Leading the Nitadesilp arts club helped me develop the communication and leadership skills I bring to collaborative projects.
+- Led stakeholder communication from functional requirements through implementation, UAT, and delivery.
+- Co-designed the system architecture, relational data models, role-based access control, and workflow state machines.
+- Implemented the core multi-step frontend workflow with React and TypeScript, including complex state transitions, dynamic schema validation, and role-based views.
+- Built a notification engine for real-time alerts and scheduled email reminders for task handoffs.
 
-**Let's connect:** [yosita.rd@gmail.com](mailto:yosita.rd@gmail.com)
+### Friday Activity System
+November 2024 – September 2025
+
+Built user-facing pages and custom React and TypeScript components for a production system used by **CEDT students** to manage activities and track scores.
+
+## Tech stack
+
+| Area | Technologies |
+| --- | --- |
+| Languages | TypeScript, JavaScript, SQL, Java, C++ |
+| Frontend | React, Next.js, TanStack Query, Zod, Tailwind CSS |
+| Backend | Node.js, Express.js, RESTful APIs, Prisma ORM |
+| Database & delivery | PostgreSQL, GitHub Actions |
+
+## Education
+
+**Chulalongkorn University** · Bachelor of Engineering, Computer Engineering and Digital Technology<br>
+2023 – November 2026 (expected)
+
+**Triamudom Suksa School** · High School<br>
+2020 – 2023
+
+## Beyond engineering
+
+- **Vice President, FECamp Club 2025:** Led Public Relations and IT divisions and directed FEST and FECamp 19th, serving over **600 students** combined.
+- **Semi-finalist, Intania Case Competition 2025:** Proposed a Cloud & AI–driven Urban Air Mobility solution for ICC Airways, focused on operational efficiency and sustainability.
+- **Languages:** Thai (native) · English (TOEIC **920**)
+
+I'm always interested in conversations about frontend engineering, full-stack systems, and thoughtful product design. [Get in touch →](mailto:yosita.rd@gmail.com)
